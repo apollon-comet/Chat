@@ -1,0 +1,14 @@
+.chatRoom {
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.chatRoom:hover {
+    background-color: #d8deec;
+}
+
+.chatRoomInfo {
+    padding-left: 1rem;
+}
